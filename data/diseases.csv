@@ -1,0 +1,783 @@
+Disease,Symptoms,Recommendations
+Heart disease,"Chest pain, shortness of breath, fatigue, dizziness, lightheadedness, palpitations, swelling (edema), nausea, sweating, jaw pain, arm pain, irregular heartbeat, rapid heartbeat, slow heartbeat, fainting, difficulty breathing, fluid buildup.","Healthy diet, regular exercise, quit smoking, limit alcohol intake, manage stress, maintain healthy weight, control blood pressure, monitor cholesterol levels, manage diabetes, get enough sleep, stay hydrated, avoid processed foods, eat more fruits and vegetables, reduce salt intake, take prescribed medications, regular health checkups, practice relaxation techniques, stay physically active, avoid trans fats."
+Fever,"High body temperature, chills, sweating, headache, muscle aches, fatigue, dehydration, loss of appetite, weakness, irritability, shivering, flushed skin, rapid heartbeat, dizziness.","Stay hydrated, rest well, take fever-reducing medication (if needed), wear light clothing, use a cool compress, drink warm fluids, avoid caffeine and alcohol, eat light and nutritious meals, monitor temperature regularly, seek medical attention if fever persists or worsens."
+Common Cold,"Runny nose, sneezing, sore throat, cough, mild fever","Natural Solutions:
+✅ Take rest
+✅ Drink honey with ginger
+✅ Steam inhalation
+✅ Consume warm soups
+✅ Gargle with salt water
+
+Medical Treatment:
+💊 Antihistamines (e.g., Loratadine)
+💊 Nasal decongestants (e.g., Oxymetazoline)
+💊 Paracetamol for fever
+💊 Cough suppressants (e.g., Dextromethorphan)
+💊 Zinc supplements"
+Influenza (Flu),"High fever, body aches, fatigue, chills, cough","Natural Solutions:
+✅ Stay hydrated
+✅ Drink herbal teas (e.g., chamomile, ginger)
+✅ Increase vitamin C intake
+✅ Use a humidifier
+✅ Rest properly
+
+Medical Treatment:
+💊 Antiviral medications (e.g., Oseltamivir)
+💊 Fever reducers (e.g., Ibuprofen)
+💊 Cough syrups
+💊 Decongestants
+💊 Pain relievers"
+Diabetes (Type 2),"Frequent urination, excessive thirst, fatigue, slow wound healing","Natural Solutions:
+✅ Maintain a healthy diet (low sugar, high fiber)
+✅ Exercise regularly
+✅ Drink bitter gourd juice
+✅ Control stress through meditation
+✅ Maintain healthy sleep patterns
+
+Medical Treatment:
+💊 Metformin
+💊 Insulin therapy
+💊 SGLT2 inhibitors (e.g., Canagliflozin)
+💊 GLP-1 receptor agonists
+💊 Regular blood sugar monitoring"
+Hypertension (High Blood Pressure),"Headache, dizziness, blurred vision, chest pain","Natural Solutions:
+✅ Reduce salt intake
+✅ Practice deep breathing exercises
+✅ Eat potassium-rich foods (e.g., bananas)
+✅ Exercise regularly
+✅ Reduce caffeine intake
+
+Medical Treatment:
+💊 ACE inhibitors (e.g., Lisinopril)
+💊 Beta-blockers (e.g., Metoprolol)
+💊 Diuretics (e.g., Hydrochlorothiazide)
+💊 Calcium channel blockers
+💊 Regular BP monitoring"
+Migraine," Severe headache, nausea, sensitivity to light and sound","Natural Solutions:
+✅ Avoid bright lights and loud noise
+✅ Use peppermint oil for massage
+✅ Maintain hydration
+✅ Practice relaxation techniques (e.g., yoga)
+✅ Improve sleep routine
+
+Medical Treatment:
+💊 Pain relievers (e.g., Ibuprofen)
+💊 Triptans (e.g., Sumatriptan)
+💊 Anti-nausea medications
+💊 Beta-blockers for prevention
+💊 Antidepressants in chronic cases"
+Arthritis,"Symptoms: Joint pain, stiffness, swelling, reduced mobility","Natural Solutions:
+✅ Maintain a healthy weight
+✅ Do low-impact exercises (e.g., swimming)
+✅ Use turmeric in diet
+✅ Apply warm compresses
+✅ Consume omega-3-rich foods
+
+Medical Treatment:
+💊 Painkillers (e.g., Acetaminophen)
+💊 NSAIDs (e.g., Ibuprofen)
+💊 Corticosteroid injections
+💊 Disease-modifying anti-rheumatic drugs (DMARDs)
+💊 Physical therapy"
+Pneumonia,"Chest pain, difficulty breathing, fever, cough with phlegm","Natural Solutions:
+✅ Drink warm fluids
+✅ Inhale steam
+✅ Use eucalyptus oil for relief
+✅ Maintain hygiene
+✅ Rest well
+
+Medical Treatment:
+💊 Antibiotics (if bacterial)
+💊 Cough suppressants
+💊 Fever reducers
+💊 Oxygen therapy in severe cases
+💊 Hospitalization in critical cases"
+Sinusitis,"Facial pain, nasal congestion, headache, postnasal drip","Natural Solutions:
+✅ Steam inhalation
+✅ Use a saline nasal spray
+✅ Stay hydrated
+✅ Apply warm compresses
+✅ Avoid allergens
+
+Medical Treatment:
+💊 Nasal decongestants
+💊 Antihistamines
+💊 Antibiotics (if bacterial)
+💊 Corticosteroid nasal sprays
+💊 Pain relievers"
+Gastroenteritis (Stomach Flu),"Diarrhea, vomiting, stomach cramps, dehydration","Natural Solutions:
+✅ Drink oral rehydration solutions
+✅ Consume probiotic-rich foods
+✅ Eat bananas and rice for easy digestion
+✅ Avoid dairy and spicy foods
+✅ Rest adequately
+
+Medical Treatment:
+💊 Anti-diarrheal medications (e.g., Loperamide)
+💊 IV fluids in severe dehydration
+💊 Antiemetics (e.g., Ondansetron)
+💊 Antibiotics (if bacterial)
+💊 Proton pump inhibitors (PPIs) for acid control"
+Tuberculosis (TB),"Chronic cough, weight loss, night sweats, fever","Natural Solutions:
+✅ Maintain proper hygiene
+✅ Eat a protein-rich diet
+✅ Drink turmeric milk
+✅ Get enough sunlight (Vitamin D)
+✅ Practice deep breathing exercises
+
+Medical Treatment:
+💊 Antibiotics (e.g., Rifampin, Isoniazid)
+💊 DOTS therapy (Directly Observed Treatment, Short-course)
+💊 Corticosteroids (in severe cases)
+💊 Regular medical check-ups
+💊 Hospitalization in critical cases"
+Anemia,"Fatigue, pale skin, dizziness, shortness of breath","Natural Solutions:
+✅ Eat iron-rich foods (e.g., spinach, lentils)
+✅ Consume vitamin C for better iron absorption
+✅ Avoid excessive tea/coffee (inhibits iron absorption)
+✅ Drink beetroot juice
+✅ Include folic acid-rich foods (e.g., citrus fruits)
+
+Medical Treatment:
+💊 Iron supplements
+💊 Folic acid supplements
+💊 Vitamin B12 injections (for pernicious anemia)
+💊 Blood transfusion (in severe cases)
+💊 Erythropoietin-stimulating agents"
+Appendicitis,"Sharp abdominal pain, nausea, fever, loss of appetite","Natural Solutions:
+✅ Apply warm compresses (temporary relief)
+✅ Eat fiber-rich foods (to prevent future issues)
+✅ Drink ginger tea for nausea
+✅ Stay hydrated
+✅ Avoid spicy and fatty foods
+
+Medical Treatment:
+💊 Pain relievers
+💊 Antibiotics
+💊 Surgery (Appendectomy)
+💊 IV fluids
+💊 Hospital observation"
+Hepatitis B,"Jaundice, fatigue, dark urine, nausea","Natural Solutions:
+✅ Avoid alcohol
+✅ Eat a liver-friendly diet (e.g., leafy greens, turmeric)
+✅ Stay hydrated
+✅ Drink green tea
+✅ Practice proper hygiene
+
+Medical Treatment:
+💊 Antiviral drugs (e.g., Entecavir, Tenofovir)
+💊 Liver function monitoring
+💊 Hepatitis B vaccine (for prevention)
+💊 Regular medical check-ups
+💊 Hospitalization in severe cases"
+Kidney Stones,"Severe lower back pain, blood in urine, nausea","Natural Solutions:
+✅ Drink plenty of water
+✅ Consume lemon juice (citric acid helps dissolve stones)
+✅ Avoid high-oxalate foods (e.g., spinach, nuts)
+✅ Reduce salt intake
+✅ Drink coconut water
+
+Medical Treatment:
+💊 Pain relievers (e.g., Ibuprofen)
+💊 Alpha-blockers (to relax ureters)
+💊 Shock wave therapy (to break stones)
+💊 Surgery (if large stones are present)
+💊 IV fluids for hydration"
+Chickenpox,"Itchy rash, fever, headache, body aches","Natural Solutions:
+✅ Apply calamine lotion
+✅ Take an oatmeal bath
+✅ Drink plenty of fluids
+✅ Use aloe vera gel for itch relief
+✅ Wear loose, comfortable clothing
+
+Medical Treatment:
+💊 Antiviral drugs (e.g., Acyclovir)
+💊 Antihistamines for itching
+💊 Fever reducers (e.g., Paracetamol)
+💊 Pain relievers
+💊 Hydration therapy"
+Dengue Fever," High fever, severe headache, muscle pain, skin rash","Natural Solutions:
+✅ Drink papaya leaf juice
+✅ Stay hydrated with coconut water
+✅ Rest adequately
+✅ Avoid mosquito bites
+✅ Eat iron-rich foods
+
+Medical Treatment:
+💊 Fever reducers (e.g., Paracetamol)
+💊 IV fluids for hydration
+💊 Blood platelet monitoring
+💊 Hospitalization in severe cases
+💊 Oxygen therapy if needed"
+Malaria,"High fever, chills, sweating, nausea, vomiting","Natural Solutions:
+✅ Drink neem and tulsi tea
+✅ Use mosquito nets and repellents
+✅ Stay hydrated
+✅ Eat iron and folate-rich foods
+✅ Take adequate rest
+
+Medical Treatment:
+💊 Antimalarial drugs (e.g., Chloroquine, Artemisinin)
+💊 Fever reducers
+💊 IV fluids for hydration
+💊 Blood transfusion (if severe anemia occurs)
+💊 Hospitalization in critical cases"
+Jaundice,"High fever, chills, sweating, nausea, vomiting","Natural Solutions:
+✅ Drink sugarcane juice
+✅ Avoid fatty and oily foods
+✅ Consume turmeric in warm water
+✅ Eat more fruits and vegetables
+✅ Stay hydrated
+
+Medical Treatment:
+💊 Antiviral drugs (if caused by Hepatitis)
+💊 Liver function tests and monitoring
+💊 IV fluids for hydration
+💊 Phototherapy (for newborn jaundice)
+💊 Blood transfusion (in severe cases)"
+Obesity," Excess body weight, fatigue, breathlessness, joint pain","Natural Solutions:
+✅ Eat a balanced, low-calorie diet
+✅ Exercise regularly (e.g., walking, swimming)
+✅ Drink green tea for metabolism boost
+✅ Reduce processed and sugary foods
+✅ Maintain proper sleep patterns
+
+Medical Treatment:
+💊 Weight-loss medications (e.g., Orlistat)
+💊 Hormonal therapy (if necessary)
+💊 Bariatric surgery (in extreme cases)
+💊 Appetite suppressants
+💊 Regular BMI monitoring
+
+"
+Ulcer (Peptic Ulcer Disease)," Burning stomach pain, bloating, nausea, loss of appetite","Natural Solutions:
+✅ Drink cabbage juice
+✅ Avoid spicy and acidic foods
+✅ Eat probiotic-rich foods (e.g., yogurt)
+✅ Drink honey with warm water
+✅ Manage stress with meditation
+
+Medical Treatment:
+💊 Proton pump inhibitors (e.g., Omeprazole)
+💊 Antacids for acid neutralization
+💊 Antibiotics (if caused by H. pylori bacteria)
+💊 H2 blockers (e.g., Ranitidine)
+💊 Mucosal protective agents"
+Psoriasis,"Red, scaly patches on skin, itching, dry skin","Natural Solutions:
+✅ Apply coconut oil or aloe vera
+✅ Take oatmeal baths
+✅ Expose skin to mild sunlight
+✅ Reduce stress through yoga
+✅ Eat an anti-inflammatory diet
+
+Medical Treatment:
+💊 Topical corticosteroids
+💊 Vitamin D creams
+💊 Immunosuppressants (e.g., Methotrexate)
+💊 Biologic drugs (for severe cases)
+💊 Phototherapy
+
+"
+Gout,"Sudden joint pain, swelling, redness (often in big toe)","Natural Solutions:
+✅ Drink cherry juice
+✅ Avoid purine-rich foods (e.g., red meat, alcohol)
+✅ Stay hydrated
+✅ Maintain a healthy weight
+✅ Use ice packs for pain relief
+
+Medical Treatment:
+💊 Anti-inflammatory drugs (e.g., NSAIDs)
+💊 Colchicine (for acute attacks)
+💊 Uric acid-lowering drugs (e.g., Allopurinol)
+💊 Corticosteroid injections
+💊 Pain relievers"
+Depression,"Persistent sadness, lack of motivation, sleep disturbances, loss of interest in activities","Natural Solutions:
+✅ Exercise regularly
+✅ Meditate and practice mindfulness
+✅ Maintain a healthy diet
+✅ Spend time outdoors in sunlight
+✅ Connect with supportive people
+
+Medical Treatment:
+💊 Antidepressants (e.g., SSRIs like Fluoxetine)
+💊 Cognitive-behavioral therapy (CBT)
+💊 Counseling and psychotherapy
+💊 Mood stabilizers (for severe cases)
+💊 Lifestyle modifications"
+Insomnia,"Difficulty falling asleep, waking up frequently, daytime drowsiness","Natural Solutions:
+✅ Establish a regular sleep schedule
+✅ Avoid screens before bedtime
+✅ Drink warm milk or chamomile tea
+✅ Reduce caffeine intake
+✅ Practice relaxation techniques (e.g., deep breathing)
+
+Medical Treatment:
+💊 Sleep aids (e.g., Melatonin supplements)
+💊 Cognitive behavioral therapy for insomnia (CBT-I)
+💊 Benzodiazepines (for severe cases)
+💊 Antidepressants (if related to mental health)
+💊 Prescription sedatives"
+Bronchitis," Persistent cough, chest congestion, wheezing, fever","Natural Solutions:
+✅ Drink warm ginger tea
+✅ Inhale steam with eucalyptus oil
+✅ Avoid smoking and pollutants
+✅ Stay hydrated
+✅ Eat honey with turmeric
+
+Medical Treatment:
+💊 Cough suppressants (e.g., Dextromethorphan)
+💊 Bronchodilators (e.g., Albuterol)
+💊 Antibiotics (if bacterial)
+💊 Corticosteroids (for chronic cases)
+💊 Oxygen therapy in severe cases"
+Eczema,"Itchy, dry, inflamed skin, redness, rash
+
+","Natural Solutions:
+✅ Apply coconut oil or aloe vera
+✅ Take oatmeal baths
+✅ Wear loose, cotton clothing
+✅ Avoid harsh soaps and fragrances
+✅ Maintain proper hydration
+
+Medical Treatment:
+💊 Topical corticosteroids
+💊 Antihistamines (for itching)
+💊 Immunosuppressive creams (e.g., Tacrolimus)
+💊 Moisturizing ointments
+💊 Light therapy (for severe cases)"
+Osteoporosis,"Bone fragility, back pain, loss of height, fractures","Natural Solutions:
+✅ Consume calcium-rich foods (e.g., dairy, leafy greens)
+✅ Get enough Vitamin D (sunlight exposure)
+✅ Do weight-bearing exercises
+✅ Avoid smoking and alcohol
+✅ Maintain a balanced diet
+
+Medical Treatment:
+💊 Calcium and vitamin D supplements
+💊 Bisphosphonates (e.g., Alendronate)
+💊 Hormone replacement therapy (HRT)
+💊 Bone-building medications (e.g., Teriparatide)
+💊 Regular bone density tests"
+Parkinson’s Disease," Tremors, muscle stiffness, slow movement, impaired balance","Natural Solutions:
+✅ Practice yoga and stretching
+✅ Eat antioxidant-rich foods
+✅ Get adequate sleep
+✅ Engage in brain-stimulating activities
+✅ Drink green tea
+
+Medical Treatment:
+💊 Dopamine replacement therapy (e.g., Levodopa)
+💊 MAO-B inhibitors (e.g., Selegiline)
+💊 Physical therapy
+💊 Deep brain stimulation (for severe cases)
+💊 Occupational therapy
+
+"
+ Pneumonia,"Chest pain, fever, chills, shortness of breath, cough with phlegm","Natural Solutions:
+✅ Stay hydrated with warm fluids
+✅ Take rest and avoid strenuous activity
+✅ Use steam inhalation for congestion relief
+✅ Consume honey with ginger
+✅ Eat vitamin C-rich foods for immunity
+
+Medical Treatment:
+💊 Antibiotics (if bacterial pneumonia)
+💊 Antiviral medications (if viral pneumonia)
+💊 Fever reducers (e.g., Acetaminophen)
+💊 Oxygen therapy (for severe cases)
+💊 Hospitalization in critical conditions"
+Low Blood Pressure (Hypotension)," Dizziness, fainting, fatigue, blurred vision","Natural Solutions:
+✅ Increase salt intake moderately
+✅ Drink plenty of water
+✅ Eat small, frequent meals
+✅ Avoid sudden position changes
+✅ Consume caffeine in moderation
+
+Medical Treatment:
+💊 Fludrocortisone (to increase blood volume)
+💊 Midodrine (to raise blood pressure)
+💊 IV fluids in emergency cases
+💊 Compression stockings (to improve circulation)
+💊 Address underlying causes (e.g., anemia, dehydration"
+Stroke," Sudden numbness, confusion, trouble speaking, paralysis on one side","Natural Solutions:
+✅ Increase salt intake moderately
+✅ Drink plenty of water
+✅ Eat small, frequent meals
+✅ Avoid sudden position changes
+✅ Consume caffeine in moderation
+
+Medical Treatment:
+💊 Fludrocortisone (to increase blood volume)
+💊 Midodrine (to raise blood pressure)
+💊 IV fluids inNatural Solutions:
+✅ Follow a heart-healthy diet (e.g., Mediterranean diet)
+✅ Exercise regularly
+✅ Control stress levels
+✅ Avoid smoking and alcohol
+✅ Monitor blood pressure and cholesterol
+
+Medical Treatment:
+💊 Thrombolytic therapy (clot-busting drugs)
+💊 Antiplatelet drugs (e.g., Aspirin)
+💊 Blood thinners (e.g., Warfarin)
+💊 Physical therapy (for rehabilitation)
+💊 Surgery (in severe cases)emergency cases
+💊 Compression stockings (to improve circulation)
+💊 Address underlying causes (e.g., anemia, dehydration"
+Alzheimer’s Disease," Memory loss, confusion, difficulty with speech and reasoning","Natural Solutions:
+✅ Engage in brain-stimulating activities (e.g., puzzles, reading)
+✅ Follow a Mediterranean diet (rich in healthy fats)
+✅ Exercise regularly
+✅ Maintain social interactions
+✅ Get adequate sleep
+
+Medical Treatment:
+💊 Cholinesterase inhibitors (e.g., Donepezil)
+💊 NMDA receptor antagonists (e.g., Memantine)
+💊 Antidepressants (if depression is present)
+💊 Cognitive therapy
+💊 Caregiver support and assisted living options
+
+"
+Epilepsy,"Seizures, loss of consciousness, uncontrolled body movements","Natural Solutions:
+✅ Follow a ketogenic diet (low-carb, high-fat)
+✅ Avoid alcohol and caffeine
+✅ Manage stress through yoga
+✅ Get enough sleep
+✅ Maintain a regular routine
+
+Medical Treatment:
+💊 Antiepileptic drugs (e.g., Valproate, Carbamazepine)
+💊 Vagus nerve stimulation
+💊 Surgery (in severe cases)
+💊 Lifestyle modifications
+💊 Regular neurological monitoring"
+ Sciatica,"Lower back pain, leg pain, numbness, tingling sensation","Natural Solutions:
+✅ Do gentle stretching exercises
+✅ Apply heat or cold packs
+✅ Maintain proper posture
+✅ Perform low-impact activities like swimming
+✅ Get regular massages
+
+Medical Treatment:
+💊 Pain relievers (e.g., Ibuprofen)
+💊 Muscle relaxants (e.g., Cyclobenzaprine)
+💊 Physical therapy
+💊 Corticosteroid injections
+💊 Surgery (if severe and persistent)"
+ Gallstones," Abdominal pain, nausea, vomiting, bloating","Natural Solutions:
+✅ Drink apple cider vinegar with warm water
+✅ Consume fiber-rich foods
+✅ Stay hydrated
+✅ Avoid fatty and fried foods
+✅ Maintain a healthy weight
+
+Medical Treatment:
+💊 Bile acid pills (to dissolve small stones)
+💊 Pain relievers
+💊 Laparoscopic gallbladder removal
+💊 ERCP (to remove stones from bile duct)
+💊 Hospitalization if complications arise"
+Varicose Veins,"Swollen, twisted veins, leg pain, heaviness, itching","Natural Solutions:
+✅ Elevate your legs regularly
+✅ Wear compression stockings
+✅ Exercise to improve circulation
+✅ Avoid prolonged standing or sitting
+✅ Massage with essential oils
+
+Medical Treatment:
+💊 Sclerotherapy (injections to close veins)
+💊 Laser therapy
+💊 Vein stripping surgery
+💊 Pain relievers
+💊 Regular check-ups with a vascular specialist
+
+"
+Mumps,"Swollen salivary glands, fever, headache, muscle pain","Natural Solutions:
+✅ Drink plenty of fluids
+✅ Apply warm or cold compress to swollen areas
+✅ Eat soft foods to ease chewing pain
+✅ Get adequate rest
+✅ Gargle with salt water
+
+Medical Treatment:
+💊 Pain relievers (e.g., Ibuprofen)
+💊 Hydration therapy
+💊 Fever management
+💊 Isolation to prevent spread
+💊 MMR vaccine for prevention
+
+"
+Measles,"High fever, red rash, cough, runny nose, watery eyes","Natural Solutions:
+✅ Drink plenty of fluids (e.g., coconut water)
+✅ Eat vitamin A-rich foods (e.g., carrots)
+✅ Use a cool mist humidifier
+✅ Avoid bright light to ease eye discomfort
+✅ Rest in a well-ventilated room
+
+Medical Treatment:
+💊 Fever reducers (e.g., Paracetamol)
+💊 Vitamin A supplements (to prevent complications)
+💊 IV fluids (for severe dehydration)
+💊 Antibiotics (if bacterial infection develops)
+💊 Measles vaccine for prevention"
+Typhoid Fever,"High fever, abdominal pain, weakness, constipation or diarrhea","Natural Solutions:
+✅ Drink boiled water to prevent infection
+✅ Eat soft, easily digestible foods
+✅ Drink ORS (Oral Rehydration Solution)
+✅ Take rest and avoid heavy activities
+✅ Consume probiotic-rich foods (e.g., yogurt)
+
+Medical Treatment:
+💊 Antibiotics (e.g., Azithromycin, Ciprofloxacin)
+💊 IV fluids for dehydration
+💊 Pain relievers (e.g., Ibuprofen)
+💊 Hospitalization in severe cases
+💊 Typhoid vaccine for prevention"
+Rabies,"Fever, difficulty swallowing, excessive saliva, hydrophobia, paralysis","Natural Solutions:
+✅ Immediately wash bite wound with soap and water
+✅ Apply turmeric paste (antiseptic)
+✅ Boost immunity with vitamin C-rich foods
+✅ Avoid contact with stray animals
+✅ Seek immediate medical attention
+
+Medical Treatment:
+💊 Rabies post-exposure prophylaxis (PEP) vaccine
+💊 Rabies immunoglobulin (for severe cases)
+💊 Pain management
+💊 Hospitalization in advanced cases
+💊 Quarantine and observation of biting animal"
+Eczema (Atopic Dermatitis),"Dry, itchy, inflamed skin, rashes, redness","Natural Solutions:
+✅ Use fragrance-free moisturizers regularly
+✅ Take lukewarm baths and avoid hot water
+✅ Apply aloe vera or coconut oil for soothing
+✅ Avoid harsh soaps and detergents
+✅ Identify and avoid food allergens
+
+Medical Treatment:
+💊 Topical corticosteroids (e.g., Hydrocortisone)
+💊 Antihistamines (for itch relief)
+💊 Immunosuppressants (e.g., Tacrolimus)
+💊 Antibiotics (if infection develops)
+💊 Phototherapy (UVB light treatment)"
+Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating, diarrhea, constipation","Natural Solutions:
+✅ Eat fiber-rich foods (for constipation)
+✅ Avoid dairy and gluten (if sensitive)
+✅ Drink peppermint tea to ease digestion
+✅ Manage stress through meditation
+✅ Exercise regularly for gut health
+
+Medical Treatment:
+💊 Antispasmodics (e.g., Dicyclomine)
+💊 Laxatives (for constipation)
+💊 Anti-diarrheal medications (e.g., Loperamide)
+💊 Probiotics for gut balance
+💊 Low FODMAP diet under medical supervision"
+Pancreatitis,"Severe abdominal pain, nausea, vomiting, fever","Natural Solutions:
+✅ Follow a low-fat diet
+✅ Drink plenty of fluids
+✅ Avoid alcohol and smoking
+✅ Eat small, frequent meals
+✅ Get enough rest
+
+Medical Treatment:
+💊 IV fluids and pain relief
+💊 Enzyme replacement therapy
+💊 Antibiotics (for infection)
+💊 Surgery (in severe cases)
+💊 Hospitalization for monitoring"
+Food Poisoning,"Nausea, vomiting, diarrhea, stomach cramps, fever","Natural Solutions:
+✅ Drink ORS or electrolyte-rich fluids
+✅ Eat probiotic foods (e.g., yogurt)
+✅ Avoid solid food until symptoms improve
+✅ Consume ginger or peppermint tea
+✅ Get enough rest
+
+Medical Treatment:
+💊 Anti-nausea medication (e.g., Ondansetron)
+💊 IV fluids for dehydration
+💊 Antibiotics (for bacterial infections)
+💊 Activated charcoal (in some cases)
+💊 Hospitalization (for severe cases)"
+Ulcerative Colitis,"Abdominal pain, bloody diarrhea, weight loss, fatigue","Natural Solutions:
+✅ Eat a low-fiber, anti-inflammatory diet
+✅ Consume probiotic-rich foods (e.g., yogurt)
+✅ Stay hydrated with electrolyte drinks
+✅ Manage stress with yoga and meditation
+✅ Avoid spicy and processed foods
+
+Medical Treatment:
+💊 Anti-inflammatory drugs (e.g., Mesalamine)
+💊 Corticosteroids (for flare-ups)
+💊 Immunosuppressants (e.g., Azathioprine)
+💊 Biologic therapy (e.g., Infliximab)
+💊 Surgery (in severe cases)"
+Tinnitus,"Ringing in ears, hearing loss, dizziness, ear discomfort","Natural Solutions:
+✅ Reduce exposure to loud noises
+✅ Practice relaxation techniques (e.g., meditation)
+✅ Limit caffeine and alcohol
+✅ Try sound therapy (white noise)
+✅ Maintain a healthy sleep schedule
+
+Medical Treatment:
+💊 Hearing aids (if hearing loss is present)
+💊 Cognitive behavioral therapy (CBT)
+💊 Tinnitus retraining therapy (TRT)
+💊 Medications for anxiety and stress
+💊 Earwax removal (if blockage is present)"
+Sciatica,"Sharp pain radiating down leg, numbness, lower back pain","Natural Solutions:
+✅ Stretch and practice yoga
+✅ Apply heat or cold therapy
+✅ Maintain good posture while sitting
+✅ Stay active with low-impact exercises
+✅ Use a supportive mattress and pillows
+
+Medical Treatment:
+💊 Pain relievers (e.g., Ibuprofen)
+💊 Muscle relaxants (e.g., Cyclobenzaprine)
+💊 Physical therapy
+💊 Corticosteroid injections
+💊 Surgery (for severe nerve compression)"
+Carpal Tunnel Syndrome,"Hand numbness, tingling, weakness, wrist pain","Natural Solutions:
+✅ Take breaks from repetitive hand movements
+✅ Apply ice packs to reduce swelling
+✅ Perform wrist stretching exercises
+✅ Maintain good hand ergonomics
+✅ Wear a wrist splint at night
+
+Medical Treatment:
+💊 NSAIDs (e.g., Ibuprofen)
+💊 Corticosteroid injections
+💊 Nerve-gliding exercises
+💊 Surgery (Carpal Tunnel Release)
+💊 Occupational therapy"
+ Hypothyroidism,"Fatigue, weight gain, dry skin, hair thinning, depression","Natural Solutions:
+✅ Eat iodine-rich foods (e.g., seaweed, fish)
+✅ Exercise regularly to boost metabolism
+✅ Manage stress through meditation
+✅ Avoid processed and sugary foods
+✅ Get enough sleep
+
+Medical Treatment:
+💊 Levothyroxine (thyroid hormone replacement)
+💊 Regular thyroid function monitoring
+💊 Selenium supplements (for thyroid support)
+💊 Treat underlying autoimmune conditions
+💊 Adjust medications as per doctor’s advice"
+Hyperthyroidism,"Rapid heartbeat, weight loss, tremors, excessive sweating","Natural Solutions:
+✅ Eat cruciferous vegetables (e.g., broccoli, cabbage)
+✅ Reduce iodine-rich foods (if overactive)
+✅ Manage stress with breathing exercises
+✅ Stay hydrated and avoid caffeine
+✅ Get enough sleep
+
+Medical Treatment:
+💊 Antithyroid drugs (e.g., Methimazole)
+💊 Beta-blockers (for symptom control)
+💊 Radioactive iodine therapy
+💊 Surgery (thyroidectomy)
+💊 Regular thyroid hormone monitoring"
+Polycystic Ovary Syndrome (PCOS)," Irregular periods, acne, weight gain, excessive hair growth","Natural Solutions:
+✅ Follow a low-carb, high-fiber diet
+✅ Exercise regularly to improve insulin sensitivity
+✅ Consume cinnamon and spearmint tea
+✅ Reduce stress with meditation
+✅ Avoid processed foods and sugar
+
+Medical Treatment:
+💊 Birth control pills (to regulate periods)
+💊 Metformin (for insulin resistance)
+💊 Anti-androgen medications (e.g., Spironolactone)
+💊 Fertility treatments (if needed)
+💊 Lifestyle changes and weight managemen"
+Vertigo," Dizziness, imbalance, nausea, spinning sensation","Natural Solutions:
+✅ Perform Epley maneuver for positional vertigo
+✅ Stay hydrated and avoid alcohol
+✅ Get adequate sleep
+✅ Manage stress and anxiety
+✅ Avoid sudden head movements
+
+Medical Treatment:
+💊 Vestibular suppressants (e.g., Meclizine)
+💊 Anti-nausea medications (e.g., Promethazine)
+💊 Physical therapy (Vestibular rehabilitation)
+💊 Inner ear infection treatment
+💊 Surgery (in rare cases)"
+Vitiligo,"White patches on the skin, loss of skin pigmentation, hair whitening","Natural Solutions:
+✅ Apply turmeric and mustard oil on affected areas
+✅ Eat antioxidant-rich foods (e.g., berries, nuts)
+✅ Avoid stress and sun exposure
+✅ Use aloe vera gel for skin nourishment
+✅ Consume copper-rich foods (e.g., nuts, seeds)
+
+Medical Treatment:
+💊 Topical corticosteroids (e.g., Clobetasol)
+💊 Phototherapy (UVB treatment)
+💊 Skin grafting (for severe cases)
+💊 Immunosuppressants (e.g., Tacrolimus)
+💊 Melanocyte transplantation"
+Celiac Disease,"Diarrhea, bloating, fatigue, weight loss, anemia","Natural Solutions:
+✅ Follow a strict gluten-free diet
+✅ Eat fiber-rich foods for gut health
+✅ Consume probiotic yogurt for digestion
+✅ Stay hydrated and eat small meals
+✅ Avoid processed and fast foods
+
+Medical Treatment:
+💊 Nutritional supplements (e.g., iron, vitamin D)
+💊 Anti-inflammatory medications
+💊 Regular gut health monitoring
+💊 Corticosteroids (for severe cases)
+💊 Supportive therapy with dietitians"
+Meningitis," High fever, stiff neck, severe headache, nausea, confusion","Natural Solutions:
+✅ Drink turmeric milk to boost immunity
+✅ Stay hydrated with herbal teas
+✅ Rest in a quiet, dark room
+✅ Apply a cold compress to reduce fever
+✅ Eat vitamin C-rich foods for immune support
+
+Medical Treatment:
+💊 Antibiotics (for bacterial meningitis)
+💊 Corticosteroids (to reduce brain swelling)
+💊 IV fluids for hydration
+💊 Pain relievers (e.g., Acetaminophen)
+💊 Hospitalization for monitoring"
+Crohn's Disease,"Abdominal pain, diarrhea, weight loss, fatigue","Natural Solutions:
+✅ Eat a low-fiber, anti-inflammatory diet
+✅ Avoid dairy and processed foods
+✅ Drink bone broth for gut healing
+✅ Manage stress through yoga
+✅ Consume omega-3-rich foods (e.g., fish, flaxseeds)
+
+Medical Treatment:
+💊 Anti-inflammatory drugs (e.g., Mesalamine)
+💊 Immunosuppressants (e.g., Azathioprine)
+💊 Biologic therapy (e.g., Adalimumab)
+💊 Corticosteroids (for flare-ups)
+💊 Surgery (for severe cases)"
+Endometriosis,"Pelvic pain, painful periods, infertility, bloating","Natural Solutions:
+✅ Eat anti-inflammatory foods (e.g., turmeric, leafy greens)
+✅ Apply heat packs for pain relief
+✅ Practice pelvic floor exercises
+✅ Follow a hormone-balancing diet
+✅ Reduce caffeine and alcohol intake
+
+Medical Treatment:
+💊 Hormonal therapy (e.g., Birth control pills)
+💊 Pain relievers (e.g., Ibuprofen)
+💊 Laparoscopic surgery (for tissue removal)
+💊 Gonadotropin-releasing hormone (GnRH) therapy
+💊 Fertility treatments (if needed)"
+Prostate Enlargement (BPH),"Frequent urination, weak urine flow, bladder retention","Natural Solutions:
+✅ Eat pumpkin seeds and tomatoes (for prostate health)
+✅ Reduce caffeine and alcohol intake
+✅ Exercise regularly to improve circulation
+✅ Drink plenty of water
+✅ Avoid holding urine for long periods
+
+Medical Treatment:
+💊 Alpha-blockers (e.g., Tamsulosin)
+💊 5-alpha reductase inhibitors (e.g., Finasteride)
+💊 Minimally invasive therapies (e.g., TUMT)
+💊 Surgery (e.g., TURP)
+💊 Lifestyle adjustments and monitoring"

@@ -1,0 +1,65 @@
+username,password,full_name,age,gender,medical_history,last_login,email,phone,symptoms_history,recommendations_history
+aswin,3ee2c5b4acb2e461cb7649311bc7ee85e334f65244a333776a0e3265a538e3b8,Aswin J,19.0,Male,no past history,2025-03-13 09:20:44,,,,
+bala,2a8c4ebbf95f0931a54092144195e8824a194f78847edbf9c5a3f03e9cea044d,bala,19.0,Male,no past history ,2025-03-13 14:09:33,,,,
+jinsu,2074954e2c0cfebb28d0ba03653432f53e8af1e5db1f70118d12e74473f60773,Jinsu,19.0,Male,no past history,2025-03-13 18:43:08,,,,
+Aswin J,$2b$12$N/YhyHshEsZ6gLaPk1yylOe5RHd4Rbqlk5g2wg8.syFW.vTuUKCTW,,,,no past medical history,2025-03-13 18:58:50,aswinakilash2005@gmail.com,9363665235.0,"Chest pain,  fatigue,  palpitations, chills, chills, Chest pain, shortness of breath, fatigue, dizziness,, Chest pain, Chest pain, shortness of breath, Chest pain, shortness of breath,  body aches, fatigue, chills, cough, Swollen, twisted veins, Swollen, twisted veins, leg pain, heaviness, itching, fever for four days,  , no, no problem found, fever, Pelvic pain, painful periods, infertility, bloating, Frequent urination, weak urine flow, bladder retention, FEVER, HIGH FEVER,  COLD, HEADACHE, Pelvic pain, painful periods, infertility, bloating, fever, cold, heachache, fever, cold, headache","Heart disease, Fever, Fever, Heart disease
+Fever, Heart disease, Heart disease, Heart disease, Influenza (Flu)
+Fever
+Heart disease
+Common Cold
+Diabetes (Type 2), Varicose Veins, Varicose Veins,  Gallstones,  Gallstones,  Gallstones,  Gallstones, Pneumonia
+Tuberculosis (TB)
+Appendicitis
+Chickenpox
+Bronchitis
+ Pneumonia, Endometriosis
+Prostate Enlargement (BPH)
+Diabetes (Type 2)
+Ulcer (Peptic Ulcer Disease)
+ Gallstones
+Irritable Bowel Syndrome (IBS)
+Celiac Disease, Chickenpox
+Mumps
+Fever
+Influenza (Flu)
+Hypertension (High Blood Pressure)
+Pneumonia
+Sinusitis
+Tuberculosis (TB)
+Appendicitis
+Dengue Fever
+Malaria
+Jaundice
+Bronchitis
+ Pneumonia
+Measles
+Typhoid Fever
+Rabies
+Pancreatitis
+Food Poisoning
+Meningitis, Endometriosis
+Ulcer (Peptic Ulcer Disease)
+ Gallstones
+Irritable Bowel Syndrome (IBS)
+Celiac Disease, Pneumonia
+Tuberculosis (TB)
+Appendicitis
+Chickenpox
+Bronchitis
+ Pneumonia
+Mumps
+Rabies
+Pancreatitis
+Food Poisoning, Chickenpox
+Mumps
+Fever
+Hypertension (High Blood Pressure)
+Pneumonia
+Sinusitis
+Tuberculosis (TB)
+Appendicitis
+Bronchitis
+ Pneumonia
+Rabies
+Pancreatitis
+Food Poisoning"
